@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="785f5646-3a46-47c7-83ae-ff001b61153a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
-    </list>
+    <list default="true" id="785f5646-3a46-47c7-83ae-ff001b61153a" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +14,8 @@
       <file leaf-file-name="readme.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="190">
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -28,7 +26,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev2" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
   </component>
@@ -158,7 +156,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576206757764</updated>
-      <workItem from="1576206759415" duration="5996000" />
+      <workItem from="1576206759415" duration="6770000" />
     </task>
     <task id="LOCAL-00001" summary="清空">
       <created>1576207269987</created>
@@ -237,26 +235,39 @@
       <option name="project" value="LOCAL" />
       <updated>1576218912671</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="dev1">
+      <created>1576219794364</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1576219794364</updated>
+    </task>
+    <task id="LOCAL-00013" summary="dev2">
+      <created>1576219857100</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1576219857100</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5996000" />
+    <option name="totallyTimeSpent" value="6770000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.2803838" side_tool="true" visible="true" weight="0.3297062" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.28144988" side_tool="true" visible="true" weight="0.47769314" />
       <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="JRebel Executor" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.71961623" visible="true" weight="0.3297062" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.4989339" weight="0.3297062" />
+      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.7185501" visible="true" weight="0.47769314" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.4978678" weight="0.3297062" />
       <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="JRebel" side_tool="true" />
@@ -293,7 +304,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -320,7 +331,6 @@
     <MESSAGE value="清空" />
     <MESSAGE value="a1" />
     <MESSAGE value="a2" />
-    <MESSAGE value="dev2" />
     <MESSAGE value="dev" />
     <MESSAGE value="r1" />
     <MESSAGE value="r2" />
@@ -328,13 +338,15 @@
     <MESSAGE value="haha1" />
     <MESSAGE value="haha2" />
     <MESSAGE value="delete r" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete r" />
+    <MESSAGE value="dev1" />
+    <MESSAGE value="dev2" />
+    <option name="LAST_COMMIT_MESSAGE" value="dev2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="190">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>
